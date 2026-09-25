@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+
+# The code repository must never absorb model artifacts or credentials.
+*.safetensors
+artifacts/
+.env
+.env.*

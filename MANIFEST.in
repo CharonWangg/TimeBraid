@@ -1,0 +1,3 @@
+include examples/generate.py
+include examples/inference_tasks.ipynb
+recursive-include hf_templates *.py
