@@ -1,6 +1,6 @@
 # TimeBraid: Unifying Time Series and Language for Understanding and Forecasting
 
-https://github.com/user-attachments/assets/56a2381f-e274-407c-8e4d-47dc6130577c
+https://github.com/user-attachments/assets/890b9862-5738-4af2-941b-5e69c5ba2468
 
 [Paper](https://arxiv.org/abs/2609.29792) · [Project page](https://xinyuewangg.com/projects/timebraid/) · [Model weights](https://huggingface.co/XinyueWangg/TimeBraid-2.5B) · [Examples](examples/inference_tasks.ipynb)
 
