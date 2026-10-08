@@ -6,12 +6,18 @@
   </a>
 </p>
 
-[Paper](https://arxiv.org/abs/2609.29792) · [Project page](https://xinyuewangg.com/projects/timebraid/) · [Model weights](https://huggingface.co/XinyueWangg/TimeBraid-2.5B) · [Examples](examples/inference_tasks.ipynb)
+[Paper](https://arxiv.org/abs/2609.29792) · [Project page](https://xinyuewangg.com/projects/timebraid/) · [Video](https://xinyuewangg.com/projects/timebraid/video/timebraid-launch.mp4) · [Model weights](https://huggingface.co/XinyueWangg/TimeBraid-2.5B) · [Examples](examples/inference_tasks.ipynb)
 
 TimeBraid brings continuous time series and natural language into one model. A
 Qwen3 language backbone and a TimesFM 2.5 time-series expert exchange information
 through interleaved Mixture-of-Transformers (MoT) layers. This repository provides its
 PyTorch and Hugging Face **inference implementation**.
+
+<p align="center">
+  <a href="https://xinyuewangg.com/projects/timebraid/video/timebraid-launch.mp4">
+    <img src="assets/timebraid-video-thumbnail.jpg" alt="Watch the 80-second TimeBraid video: the same rainfall history forecast under two text descriptions" width="680" />
+  </a>
+</p>
 
 ## What TimeBraid does
 
