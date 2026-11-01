@@ -5,14 +5,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2609.29792-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.29792)
 [![Project page](https://img.shields.io/badge/Project-Page-1f6feb?logo=googlechrome&logoColor=white)](https://xinyuewangg.com/projects/timebraid/)
 [![Model](https://img.shields.io/badge/Model-TimeBraid--2.5B-ffd21e?logo=huggingface)](https://huggingface.co/XinyueWangg/TimeBraid-2.5B)
-[![Data: Alignment](https://img.shields.io/badge/Data-Alignment-ffd21e?logo=huggingface)](https://huggingface.co/datasets/XinyueWangg/TimeBraid-Alignment)
-[![Data: SFT](https://img.shields.io/badge/Data-SFT-ffd21e?logo=huggingface)](https://huggingface.co/datasets/XinyueWangg/TimeBraid-SFT)
+[![Data](https://img.shields.io/badge/Data-Alignment%20%C2%B7%20SFT-ffd21e?logo=huggingface)](https://huggingface.co/datasets?author=XinyueWangg)
 [![Examples](https://img.shields.io/badge/Examples-Notebook-f37626?logo=jupyter&logoColor=white)](examples/inference_tasks.ipynb)
-
-[![NeurIPS 2026 FMTS Workshop](https://img.shields.io/badge/NeurIPS%202026-FMTS%20Workshop-6f42c1)](https://arxiv.org/abs/2609.29792)
-[![GIFT-Eval-CTX: #1 among open-source models](https://img.shields.io/badge/GIFT--Eval--CTX-%F0%9F%8F%86%20%231%20among%20open--source%20models-2ea44f)](https://huggingface.co/spaces/Salesforce/GIFT-Eval-CTX)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
-[![Python 3.11](https://img.shields.io/badge/Python-3.11-3776ab?logo=python&logoColor=white)](#installation)
+
+[![GIFT-Eval-CTX: #1 among open-source models](https://img.shields.io/badge/GIFT--Eval--CTX-%F0%9F%8F%86%20%231%20among%20open--source%20models-2ea44f)](https://huggingface.co/spaces/Salesforce/GIFT-Eval-CTX)
 
 </div>
 
