@@ -1,8 +1,28 @@
+<div align="center">
+
 # TimeBraid: Unifying Time Series and Language for Understanding and Forecasting
+
+[![arXiv](https://img.shields.io/badge/arXiv-2609.29792-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.29792)
+[![Project page](https://img.shields.io/badge/Project-Page-1f6feb?logo=googlechrome&logoColor=white)](https://xinyuewangg.com/projects/timebraid/)
+[![Model](https://img.shields.io/badge/Model-TimeBraid--2.5B-ffd21e?logo=huggingface)](https://huggingface.co/XinyueWangg/TimeBraid-2.5B)
+[![Data: Alignment](https://img.shields.io/badge/Data-Alignment-ffd21e?logo=huggingface)](https://huggingface.co/datasets/XinyueWangg/TimeBraid-Alignment)
+[![Data: SFT](https://img.shields.io/badge/Data-SFT-ffd21e?logo=huggingface)](https://huggingface.co/datasets/XinyueWangg/TimeBraid-SFT)
+[![Examples](https://img.shields.io/badge/Examples-Notebook-f37626?logo=jupyter&logoColor=white)](examples/inference_tasks.ipynb)
+
+[![NeurIPS 2026 FMTS Workshop](https://img.shields.io/badge/NeurIPS%202026-FMTS%20Workshop-6f42c1)](https://arxiv.org/abs/2609.29792)
+[![GIFT-Eval-CTX: #1 among open-source models](https://img.shields.io/badge/GIFT--Eval--CTX-%F0%9F%8F%86%20%231%20among%20open--source%20models-2ea44f)](https://huggingface.co/spaces/Salesforce/GIFT-Eval-CTX)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-3776ab?logo=python&logoColor=white)](#installation)
+
+</div>
 
 https://github.com/user-attachments/assets/890b9862-5738-4af2-941b-5e69c5ba2468
 
-[Paper](https://arxiv.org/abs/2609.29792) · [Project page](https://xinyuewangg.com/projects/timebraid/) · [Model weights](https://huggingface.co/XinyueWangg/TimeBraid-2.5B) · [Examples](examples/inference_tasks.ipynb)
+## News
+
+- **2026-10** 🏆 TimeBraid-6.7B ranks #1 among open-source models on the [GIFT-Eval-CTX](https://huggingface.co/spaces/Salesforce/GIFT-Eval-CTX) contextual forecasting leaderboard, beating TimesFM-3, Moirai-2, Chronos-2, Toto-2.0, and even Claude Opus 4.8.
+- **2026-09** TimeBraid is accepted to the NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS).
+- **2026-09** The [paper](https://arxiv.org/abs/2609.29792), inference code, and [TimeBraid-2.5B](https://huggingface.co/XinyueWangg/TimeBraid-2.5B) weights are released.
 
 TimeBraid brings continuous time series and natural language into one model. A
 Qwen3 language backbone and a TimesFM 2.5 time-series expert exchange information
